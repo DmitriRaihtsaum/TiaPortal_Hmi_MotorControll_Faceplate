@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2023-05-29 20:17:33 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="ContactorControlObject_HmiVideo_v2.HMI_1[KTP400 Comfort]"
+    RtProjectFolderName="ContactorControlObject_HmiVideo_v2.HMI_1[KTP400 Comfort]"
+    DeviceType="KTP400"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.0"
+    ImageReleaseNo="16.0.0.0"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="CP_4" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <FullDownload>DeviceSettings.hsf</FullDownload>
+</DownloadTask>
